@@ -1,0 +1,26 @@
+h1, p {
+  font-family: Lato;
+  color: green;
+  
+}
+
+ul {
+  color: lightblue;
+}
+
+h2 {
+  color: cyan;
+}
+
+.one{
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#two{
+   font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+ 
+}
